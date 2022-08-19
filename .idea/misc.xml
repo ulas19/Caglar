@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/background_bottom.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/cardbackground.xml" value="0.2045" />
+        <entry key="app/src/main/res/drawable-v24/circle_green.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_arrow_back_24.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_attachment_24.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_photo_camera_24.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_question_answer_24.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_send_24.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/ic_baseline_timer_24.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/option_unselected.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/rounded_box.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/textbox.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable-v24/textbox_outline.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable/receiver_drawable.xml" value="0.2165" />
+        <entry key="app/src/main/res/drawable/sent_drawable.xml" value="0.215" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.35648148148148145" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/activity_start.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/delete_dialog.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_about.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_appointment.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_brans.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_questions.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/fragment_survey.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/nav_header.xml" value="0.3880208333333333" />
+        <entry key="app/src/main/res/layout/receiver_item.xml" value="0.3890625" />
+        <entry key="app/src/main/res/layout/sent_item.xml" value="0.2078125" />
+        <entry key="app/src/main/res/menu/drawer_menu.xml" value="0.3880208333333333" />
+        <entry key="app/src/main/res/menu/menu.xml" value="0.3880208333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

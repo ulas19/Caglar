@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "154386952431",
+    "project_id": "caglar-1becb",
+    "storage_bucket": "caglar-1becb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154386952431:android:57820408710b7a0b8bab1a",
+        "android_client_info": {
+          "package_name": "com.ulas.caglar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154386952431-6cbfrulp51po5faua869g389bcatst6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq_KdurJfaGckX3ulzOaZeKZ0_7uChrgs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154386952431-6cbfrulp51po5faua869g389bcatst6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

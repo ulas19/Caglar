@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/infobot"
+            android:title="Hakkımızda" />
+        <item
+            android:id="@+id/nav_ques"
+            android:icon="@drawable/botques"
+            android:title="Hekiminiz soruyor" />
+        <item
+            android:id="@+id/nav_cal"
+            android:icon="@drawable/botcal"
+            android:title="Randevu" />
+        <item
+            android:id="@+id/nav_support"
+            android:icon="@drawable/botsup"
+            android:title="Canlı Destek" />
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/botpro"
+            android:title="Profil" />
+    </group>
+
+    <item android:title="Gizlilik ve Sözleşmeler">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:title="Privacy Police" />
+        </menu>
+    </item>
+
+</menu>

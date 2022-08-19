@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/resume"
+        android:title="Hakkında"
+        android:icon="@drawable/infobot"/>
+    <item android:id="@+id/survey"
+        android:title="Anket Alanı"
+        android:icon="@drawable/botques"/>
+    <item android:id="@+id/appointment"
+        android:title="Randevu al"
+        android:icon="@drawable/botcal"/>
+    <item android:id="@+id/support"
+        android:title="Canlı Destek"
+        android:icon="@drawable/botsup"/>
+    <item android:id="@+id/settings"
+        android:title="Ayarlar"
+        android:icon="@drawable/botpro"/>
+
+</menu>
